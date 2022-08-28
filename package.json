@@ -77,7 +77,7 @@
     "@hpcc-js/wasm": "^1.12.4",
     "@material/mwc-button": "^0.25.3",
     "@material/mwc-checkbox": "^0.25.3",
-    "@material/mwc-circular-progress": "^0.25.3",
+    "@material/mwc-circular-progress": "^0.26.1",
     "@material/mwc-dialog": "^0.25.3",
     "@material/mwc-drawer": "^0.25.3",
     "@material/mwc-fab": "^0.25.3",
