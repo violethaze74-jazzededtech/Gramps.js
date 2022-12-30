@@ -19,7 +19,7 @@
     "@open-wc/building-rollup": "^1.9.4",
     "@open-wc/demoing-storybook": "^2.4.6",
     "@open-wc/eslint-config": "^4.0.1",
-    "@open-wc/testing": "^2.5.32",
+    "@open-wc/testing": "^3.1.7",
     "@rollup/plugin-replace": "^2.3.4",
     "@web/dev-server": "^0.1.22",
     "@web/test-runner": "^0.10.2",
